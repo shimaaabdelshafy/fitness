@@ -1,0 +1,38 @@
+/* Welcom Section */
+.welcom-section__wrapper{
+    height:1200px;
+    width: 1200px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    background-color: #eee;
+}
+.welcom-section__text{
+  position: absolute;
+  margin-top:500px;
+  margin-left: 70px;
+  text-align:justify;
+  width:30%;
+}
+
+.welcom-section__img{
+  position: absolute;
+  right: 20px;
+  top: 300px;
+}
+.fitness{
+  color: #fa7c30;
+}
+.text-black{
+  margin-top: 20px;
+  color: black;
+  line-height: 2;
+  font-weight: 700;
+}
+.text-grey{
+  color:grey;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 50px;
+  font-weight: 700;
+}
